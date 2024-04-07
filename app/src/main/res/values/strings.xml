@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">homka.exe</string>
+    <string name="devices">// устройств_заражено:</string>
+    <string name="plusHamster">0</string>
+    <string name="hamsterCount">0</string>
+    <string name="buyPower">>купить_за\n100</string>
+    <string name="buyBotnet">>купить_за\n1000</string>
+    <string name="pushValue">1 за_клик</string>
+    <string name="upgradesTitle">// улучшения:</string>
+    <string name="powerCount">// вычислительные мощности: +1</string>
+    <string name="botnetCount">// BotNet (+1 к мощностям)</string>
+    <string name="rules">// нажимайте на хомяка, чтобы заразить больше устройств хомячьим вирусом\n\n
+    // вычислительне мощности повышают значение клика\n\n
+    // BotNet увеличивает вычислительные мощности (большая прибавка к клику за покупку мощностей)</string>
+
+
+
+</resources>
